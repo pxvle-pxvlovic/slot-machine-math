@@ -104,11 +104,11 @@ slot-machine-math/
 
 ├── charts/
 
-│   ├── chart1_symbol_frequency.png
+│   ├── symbol_frequency.png
 
-│   ├── chart2_payout_distribution.png
+│   ├── payout_distribution.png
 
-│   └── chart3_rtp_convergence.png
+│   └── cumulative_rtp_convergence.png
 
 └── report/
 
