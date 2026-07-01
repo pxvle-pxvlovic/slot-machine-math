@@ -1,10 +1,9 @@
 # Slot Machine Mathematical Analysis
 
-A complete game mathematics project demonstrating the full workflow used in 
-professional slot game development: theoretical derivation, Monte Carlo simulation, 
+A complete game mathematics project demonstrating the full workflow: theoretical derivation, Monte Carlo simulation, 
 and statistical validation.
 
-Built as a portfolio project targeting a Game Mathematician role.
+
 
 ---
 
@@ -140,5 +139,6 @@ Python 3.x, standard library only (random, csv, math). No external dependencies.
 ## Author
 
 **Pavle Pavlović**  
-Electrical and Computer Engineering student, University of Belgrade  
-School of Electrical Engineering
+Computer Technician
+Electrical and Computer Engineering Student (RF/Microwave Engineering)
+University of Belgrade, School of Electrical Engineering
