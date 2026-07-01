@@ -140,5 +140,7 @@ Python 3.x, standard library only (random, csv, math). No external dependencies.
 
 **Pavle Pavlović**  
 Computer Technician
+
 Electrical and Computer Engineering Student
+
 University of Belgrade, School of Electrical Engineering
