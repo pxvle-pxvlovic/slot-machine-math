@@ -24,9 +24,3 @@ with open("convergence.csv", "w", newline="") as f:
         if (i + 1) % 1000 == 0:
             cumulative_rtp_pct = (total_payout / (i + 1)) / cost_per_spin
             writer.writerow([i+1, cumulative_rtp_pct])
-            
-
-
-
-print(f"Hit frequency: {win_count / spin_cnt:.4f}")
-print(f"Expected: ~0.1316")
