@@ -63,13 +63,13 @@ Validated at 10,000,000 spins using a Python Monte Carlo engine.
 ## Charts
 
 ### Symbol Frequency: Simulated vs Theoretical
-![Symbol Frequency](charts/chart1_symbol_frequency.png)
+![Symbol Frequency](charts/symbol_frequency.png)
 
 ### Payout Distribution
-![Payout Distribution](charts/chart2_payout_distribution.png)
+![Payout Distribution](charts/payout_distribution.png)
 
 ### RTP Convergence
-![RTP Convergence](charts/chart3_rtp_convergence.png)
+![RTP Convergence](charts/cumulative_rtp_convergence.png)
 
 ---
 
